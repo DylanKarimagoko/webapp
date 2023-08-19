@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/webapp/static/css/main.3f10be3b.css",
+    "main.js": "/webapp/static/js/main.8240d2d7.js",
+    "static/media/dylan.jpg": "/webapp/static/media/dylan.0236e4319a2b40c20105.jpg",
+    "static/media/booksThird.png": "/webapp/static/media/booksThird.a2fbbfef7a6966975c03.png",
+    "static/media/booksFirst.png": "/webapp/static/media/booksFirst.9c89027038947bde159b.png",
+    "static/media/booksSecond.png": "/webapp/static/media/booksSecond.8dbe4904543554862194.png",
+    "static/media/modalmSecond.png": "/webapp/static/media/modalmSecond.72e96b15960a9b39cf27.png",
+    "static/media/southFirst.png": "/webapp/static/media/southFirst.97b0f481aebbca61f475.png",
+    "static/media/southSecond.png": "/webapp/static/media/southSecond.9925e276d58117bc4486.png",
+    "static/media/modalmFirst.png": "/webapp/static/media/modalmFirst.b58b793d5ffa47fbcdc2.png",
+    "static/media/southThird.png": "/webapp/static/media/southThird.5fdbc70c3882a0958a01.png",
+    "static/media/react.png": "/webapp/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/loanSecond.png": "/webapp/static/media/loanSecond.9230655262f1246fc88d.png",
+    "static/media/loanfirst.png": "/webapp/static/media/loanfirst.6b9cdbfe91551d554cba.png",
+    "static/media/modalmThird.png": "/webapp/static/media/modalmThird.df26f60c580885621cc1.png",
+    "static/media/loanThird.png": "/webapp/static/media/loanThird.2d50bf2db265737d3a88.png",
+    "static/media/helvetica.ttf": "/webapp/static/media/helvetica.f1279b7b3457c18f9f82.ttf",
+    "static/media/c.png": "/webapp/static/media/c.456d41f630085700b5d8.png",
+    "static/media/flutter.png": "/webapp/static/media/flutter.294a953425109a8f1aad.png",
+    "static/media/wa.png": "/webapp/static/media/wa.77f9ab9e4f13443eea43.png",
+    "static/media/futura.ttf": "/webapp/static/media/futura.e07bb8557f02892be46b.ttf",
+    "static/media/linkedin.png": "/webapp/static/media/linkedin.b6c97efff378d338a020.png",
+    "static/media/fb.png": "/webapp/static/media/fb.45b15698712ae20e887f.png",
+    "index.html": "/webapp/index.html",
+    "main.3f10be3b.css.map": "/webapp/static/css/main.3f10be3b.css.map",
+    "main.8240d2d7.js.map": "/webapp/static/js/main.8240d2d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f10be3b.css",
+    "static/js/main.8240d2d7.js"
+  ]
+}
